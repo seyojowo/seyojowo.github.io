@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://seyojowo.github.io/sitemap/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/DdQ/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/KIt/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/gtM/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/cTw/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/eNA/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/QTd/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/igI/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/AkI/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/Ufk/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/Ukh/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/lIC/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/OFW/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/byt/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/yap/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/KXH/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/ARi/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/Wub/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/glQ/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/Dhs/sitemap_index.seyojowo
+Sitemap: https://seyojowo.github.io/Bxm/sitemap_index.seyojowo
